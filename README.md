@@ -1,4 +1,4 @@
-# Hedwing- IoT Power Monitoring System
+# Hedwig- IoT Power Monitoring System
 
 ![Final Product](Assets/view.jpeg)
 ## Project Overview
